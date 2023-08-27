@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @UMAMAHESHWARRAO302001
-- 👀 I’m interested in innovating new things which makes customer's to feel comfortable to use and which develops the country by using advanced technologies.
-- 🌱 I’m currently pursuing my BTech from cmr institute of technology under the stream of computer science and engineering.
+- Hi there. I'm Umamahesh Yenamala 👋
+- ⚡ I love math and programming
+- 🌱 I’m addicted to learn and grow every day
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me
+  
+     - LinkedIn :: https://www.linkedin.com/in/umamahesh-yenamala-a20423197/
+  
+     - Medium   :: https://medium.com/@yenamalaumamahesh
+  
+     - Discord  :: https://discord.com/channels/@me
 
 <!---
 UMAMAHESHWARRAO302001/UMAMAHESHWARRAO302001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
