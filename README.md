@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
   
-     - LinkedIn :: https://www.linkedin.com/in/umamahesh-yenamala-a20423197/![UMAMAHESHWARRAO302001's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UMAMAHESHWARRAO302001&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+     - LinkedIn :: https://www.linkedin.com/in/umamahesh-yenamala-a20423197/
   
      - Medium   :: https://medium.com/@yenamalaumamahesh
   
