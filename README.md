@@ -1,6 +1,6 @@
 ### Hi there 👋, Umamahesh Yenamala
 #### Data Scientist Trainee | Expertise in Python Development and Machine Learning
-Experienced Data Scientist Intern with 8 months of hands-on experience in Advanced analytics, machine learning (sentiment analysis, GenAI App), cloud computing (AWS)  learning, web scraping, and Retrieval-Augmented Generation (RAG) system (Gemini API) for topic-specific searches.
+Experienced Data Scientist hands-on experience in Advanced analytics, machine learning (sentiment analysis, GenAI App), cloud computing (AWS)  learning, web scraping, and Retrieval-Augmented Generation (RAG) system (Gemini API) for topic-specific searches.
 
 
 Skills: Programming language : Python | Data Analysis : Data Cleaning & Pre-processing, Data Mining, Evaluation Metrics | Data Visualization : Tableau, Power BI | Machine Learning : Scikit-learn, Keras, TensorFlow, Deep Learning (ANN, CNN), Transformers | Natural Language Processing (NLP) : Seq2Seq, Transformers | Vector Databases : ChromaDB, PineconeDB | GenAI-LLMs (Large Language Models)
